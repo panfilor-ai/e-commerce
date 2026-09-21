@@ -2,5 +2,6 @@
 vendor
 node_modules
 storage/logs
+bootstrap/cache/*.php
 *.log
 .env
